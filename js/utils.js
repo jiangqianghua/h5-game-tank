@@ -16,6 +16,7 @@ var checkCollision = function(obj1,obj2){
 		return true ;
 	return false 
 }
+
 // js导入js代码
 var include = function(jsname){
 	document.write("<script type='text/javascript' src='../js/"+jsname+"'></script>");
